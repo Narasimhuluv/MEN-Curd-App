@@ -1,0 +1,19 @@
+// let express = require("express");
+// const auth = require("../middlewares/auth");
+// const Book = require("../models/Book");
+// let router = express.Router();
+
+// // router.get("/", async (req, res, next) => {
+// //  let user = req.user;
+// //  try {
+// //   let userBooks = await Book.find({});
+// //   let filteredBooks = userBooks.filter(
+// //    (each) => each.author && each.author.userId === user.userId
+// //   );
+// //   console.log(filteredBooks);
+// //  } catch (error) {
+// //   next(error);
+// //  }
+// // });
+
+// module.exports = router;
